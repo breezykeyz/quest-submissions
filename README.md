@@ -15,7 +15,15 @@ Chapter 1 Day 1 Quests
  
 Chapter 1 Day 2 Quests
 
- In my opinion the 5 Pillars are useful because: 
+1. The 5 Cadence Programming Language Pillars are :
+i. Safety & Security
+ii. Clarity
+iii. Approachability
+iv. Developer Experience
+v. Resource Oriented Programming
+
+
+2. In my opinion the 5 Pillars are useful because: 
 i. the system has to be fail proof, you should be able to have rest of mind knowing that your coins cannot be stolen by a hacker. 
 ii. The codes should be very clear to a new developer that didn't write the codes for the DApp to enhance its mainteinability.
 iii. The codes should be approachable to a developer that has knowledge of other programming languages to facilitate a swift transition. 
