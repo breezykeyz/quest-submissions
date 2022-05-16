@@ -9,6 +9,7 @@ Chapter 1 Day 1 Quests
 2. Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met.
 
 
-3. A transaction CHANGES the data on the Blockchain, and usually is the ONLY way we can change the data on the Blockchain.It is a glorified, paid function call.
+3.  A script is used to VIEW data on the Blockchain, they do not change it. Scripts are free to use.
+   A transaction CHANGES the data on the Blockchain, and usually is the ONLY way we can change the data on the Blockchain.It is a glorified paid function call.
 
-  A script is used to VIEW data on the Blockchain, they do not change it. Scripts are free to use.
+ 
